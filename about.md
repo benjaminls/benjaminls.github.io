@@ -28,6 +28,6 @@ Dark photons, hidden sector physics,
 
 List a few hobbies
 
-Plants, ML projects, reading, cooking,
+Plants, ML projects, reading, cooking, 
 
 [back](./)
