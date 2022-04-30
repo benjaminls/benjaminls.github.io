@@ -18,9 +18,9 @@ For the upcoming SULI Summer 2022 Internship at SLAC National Accelerator Labora
 
 # Current Projects
 
-## Neural Network Reweighting for Vector-like Quark Data
+## Neural Reweighting for Monte Carlo Event Generators for Vector-like Quark Data
 
-Dr. Tim Andeen
+Dr. Avik Roy, Dr. Tim Andeen
 
 
 
