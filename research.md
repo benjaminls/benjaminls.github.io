@@ -35,6 +35,8 @@ Dr. Carlos Escobar, Dr. Adam Para, Dr. Roxanne Guenette
 
 Finish putting everybody else in
 
+[Final Report](about:blank), [Poster](about:blank)
+
 
 ## Applying ML Techniques to SUSY-like Cascade Decays for Discovery, Mass Measurement, and Spin Determination
 
@@ -49,6 +51,6 @@ Dr. Todd Ditmire, Dr. Hernan Quevedo
 
 Finish putting everybody else in
 
-
+APS DPP [Abstract](about:blank), [Poster](about:blank)
 
 [back](./)
