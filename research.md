@@ -22,7 +22,7 @@ Dr. Avik Roy, Dr. Tim Andeen
 
 # Past Projects
 
-## Simulating Performance Benchmarks of the LDMX Silicon Trackers
+## MIP Tracking Studies for the Light Dark Matter eXperiment
 
 For the upcoming SULI Summer 2022 Internship at SLAC National Accelerator Laboratory
 
@@ -51,6 +51,6 @@ Dr. Todd Ditmire, Dr. Hernan Quevedo
 
 Finish putting everybody else in
 
-APS DPP [Abstract](about:blank), [Poster](about:blank)
+APS DPP [Poster](about:blank), [Abstract](about:blank)
 
 [back](./)
