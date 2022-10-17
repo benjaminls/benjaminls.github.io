@@ -37,6 +37,7 @@ Finish putting everybody else in
 ## Applying ML Techniques to SUSY-like Cascade Decays for Discovery, Mass Measurement, and Spin Determination
 
 Dr. Can Kilic, Ram Purandhar Reddy Sudha, Maaz Ul Haq
+[On the arXiv!](https://arxiv.org/abs/2210.01178)
 
 
 ## Designing a New Proton-Ion Spectrometer
