@@ -26,6 +26,8 @@ Dr. Avik Roy, Dr. Tim Andeen
 
 For the upcoming SULI Summer 2022 Internship at SLAC National Accelerator Laboratory
 
+[Final Report](https://drive.google.com/file/d/1qLirU9-NrpYYmL3AdhkunIGCviekDGed/view?usp=sharing)
+
 
 ## Metalens Light Concentrators for Liquid Argon Neutrino Detectors
 
@@ -36,7 +38,8 @@ Finish putting everybody else in
 
 ## Applying ML Techniques to SUSY-like Cascade Decays for Discovery, Mass Measurement, and Spin Determination
 
-Dr. Can Kilic, Ram Purandhar Reddy Sudha, Maaz Ul Haq
+with Dr. Can Kilic, Ram Purandhar Reddy Sudha, Maaz Ul Haq
+
 [On the arXiv!](https://arxiv.org/abs/2210.01178)
 
 
